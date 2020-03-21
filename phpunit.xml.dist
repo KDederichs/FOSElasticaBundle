@@ -12,7 +12,7 @@
 >
     <php>
         <server name="FOS_ELASTICA_HOST" value="localhost" />
-        <server name="FOS_ELASTICA_PORT" value="9200" />
+        <server name="FOS_ELASTICA_PORT" value="9201" />
     </php>
 
     <testsuites>
